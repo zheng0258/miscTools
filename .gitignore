@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# yt-dlp
+.yt-dlp-cache/
+*_cookies.txt
+cookies.txt
+
+# 媒體檔案（體積大，不追蹤）
+*.mp3
+*.mp4
+*.webm
+*.webp
+*.part
+*.jpg
+*.jpeg
+*.png
